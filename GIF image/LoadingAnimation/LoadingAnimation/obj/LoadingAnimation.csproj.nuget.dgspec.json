@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj",
+        "projectName": "LoadingAnimation",
+        "projectPath": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj",
+        "packagesPath": "C:\\Users\\Kamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "WpfAnimatedGif": {
+              "target": "Package",
+              "version": "[1.4.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101-servicing-014308\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

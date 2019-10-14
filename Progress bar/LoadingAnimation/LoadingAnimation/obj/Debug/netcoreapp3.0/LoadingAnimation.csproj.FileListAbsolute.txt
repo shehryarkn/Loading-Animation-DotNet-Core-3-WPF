@@ -1,0 +1,17 @@
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.exe
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.deps.json
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.runtimeconfig.json
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.runtimeconfig.dev.json
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.dll
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\bin\Debug\netcoreapp3.0\LoadingAnimation.pdb
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.csprojAssemblyReference.cache
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation_MarkupCompile.cache
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation_MarkupCompile.lref
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.g.resources
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.AssemblyInfoInputs.cache
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.AssemblyInfo.cs
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.dll
+C:\Users\Kamal\source\repos\LoadingAnimation\LoadingAnimation\obj\Debug\netcoreapp3.0\LoadingAnimation.pdb

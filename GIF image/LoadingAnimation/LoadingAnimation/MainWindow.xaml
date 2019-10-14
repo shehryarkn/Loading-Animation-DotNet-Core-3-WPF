@@ -1,0 +1,14 @@
+﻿<Window x:Class="LoadingAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:LoadingAnimation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid><Image Name="imgCircle" Visibility="Collapsed" Width="100" Height="100" gif:ImageBehavior.AnimatedSource="/circle.gif" />
+        
+        <Button Name="PerformTask" Content="Execute job" Click="PerformTask_Click" Margin="110,50,0,0" Width="80" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

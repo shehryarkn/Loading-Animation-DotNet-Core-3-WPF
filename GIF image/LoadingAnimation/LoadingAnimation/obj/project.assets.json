@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WpfAnimatedGif/1.4.18": {
+        "type": "package",
+        "compile": {
+          "lib/net/WpfAnimatedGif.dll": {}
+        },
+        "runtime": {
+          "lib/net/WpfAnimatedGif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAnimatedGif/1.4.18": {
+      "sha512": "lXo0K9RNjWRxQjLWLuufp82ahwVVrSg+QWMJ/66X500A5CJTlupM1DbxLRJveIhwHGtVUzHynzQanHLxB47Mwg==",
+      "type": "package",
+      "path": "wpfanimatedgif/1.4.18",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/WpfAnimatedGif.dll",
+        "lib/net/WpfAnimatedGif.xml",
+        "wpfanimatedgif.1.4.18.nupkg.sha512",
+        "wpfanimatedgif.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "WpfAnimatedGif >= 1.4.18"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kamal\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj",
+      "projectName": "LoadingAnimation",
+      "projectPath": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\LoadingAnimation.csproj",
+      "packagesPath": "C:\\Users\\Kamal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kamal\\source\\repos\\LoadingAnimation\\LoadingAnimation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "WpfAnimatedGif": {
+            "target": "Package",
+            "version": "[1.4.18, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101-servicing-014308\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WpfAnimatedGif 1.4.18' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WpfAnimatedGif",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LoadingAnimation/1.0.0": {
+        "dependencies": {
+          "WpfAnimatedGif": "1.4.18"
+        },
+        "runtime": {
+          "LoadingAnimation.dll": {}
+        }
+      },
+      "WpfAnimatedGif/1.4.18": {
+        "runtime": {
+          "lib/net/WpfAnimatedGif.dll": {
+            "assemblyVersion": "1.4.18.0",
+            "fileVersion": "1.4.18.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoadingAnimation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfAnimatedGif/1.4.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lXo0K9RNjWRxQjLWLuufp82ahwVVrSg+QWMJ/66X500A5CJTlupM1DbxLRJveIhwHGtVUzHynzQanHLxB47Mwg==",
+      "path": "wpfanimatedgif/1.4.18",
+      "hashPath": "wpfanimatedgif.1.4.18.nupkg.sha512"
+    }
+  }
+}
